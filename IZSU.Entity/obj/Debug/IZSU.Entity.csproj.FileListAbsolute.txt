@@ -1,0 +1,10 @@
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\IZSU.Entity.dll.config
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\IZSU.Entity.dll
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\IZSU.Entity.pdb
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\obj\Debug\IZSU.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\obj\Debug\IZSU.Entity.dll
+C:\Users\Bengisu\Source\Repos\Projects\WebForms_IZSU_Asp.NET\IZSU.Entity\obj\Debug\IZSU.Entity.pdb
